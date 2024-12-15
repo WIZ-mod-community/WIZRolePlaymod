@@ -20,6 +20,6 @@ ___Как установить?___
 
 _Распаковать архив по пути WAR IN ZONE\data\campanings\mods_
 ***
-[Скачать модификацию](https://github.com/WIZ-mod-community/WIZRolePlaymod/releases)
+[СКАЧАТЬ МОДИФИКАЦИЮ!](https://github.com/WIZ-mod-community/WIZRolePlaymod/releases)
 >Спасибо за игру в наши модификации, от всей команды WiZ MC:
 Banan, Лорд Некронов, Djent1k, Cенатор Газманов, Ezer, Azertix.
