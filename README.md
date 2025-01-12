@@ -22,4 +22,7 @@ _Распаковать архив по пути WAR IN ZONE\data\campanings\mod
 ***
 [СКАЧАТЬ МОДИФИКАЦИЮ!](https://github.com/WIZ-mod-community/WIZRolePlaymod/releases)
 >Спасибо за игру в наши модификации, от всей команды WiZ MC:
-Banan, Лорд Некронов, Djent1k, Cенатор Газманов, Ezer, Azertix.
+Banan, Лорд Некронов, Djent1k, Cенатор Газманов, Ezer.
+>Спасибо всем тем кто создал эту модификацию и всем тем кто помогал!
+Banan, Лорд Некронов, Cенатор Газманов, DJ2, Маркель, TT.iro.
+Капитан Канаев, VALROY, Orion.
